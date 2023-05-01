@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a3akl9ohzt7szs/DYxW1rW+p5g5HDE3/6imQQHJ4GnM=",
+  "Source": "ASP.MusicMarket.Api",
+  "BasePath": "_content/ASP.MusicMarket.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

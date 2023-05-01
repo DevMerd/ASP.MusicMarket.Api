@@ -1,0 +1,17 @@
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\bin\Debug\net7.0\ASP.MusicMarket.Data.deps.json
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\bin\Debug\net7.0\ASP.MusicMarket.Data.runtimeconfig.json
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\bin\Debug\net7.0\ASP.MusicMarket.Data.dll
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\bin\Debug\net7.0\ASP.MusicMarket.Data.pdb
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\bin\Debug\net7.0\ASP.MusicMarket.Core.dll
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\bin\Debug\net7.0\ASP.MusicMarket.Core.pdb
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\ASP.MusicMarket.Data.csproj.AssemblyReference.cache
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\ASP.MusicMarket.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\ASP.MusicMarket.Data.AssemblyInfoInputs.cache
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\ASP.MusicMarket.Data.AssemblyInfo.cs
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\ASP.MusicMarket.Data.csproj.CoreCompileInputs.cache
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\ASP.MusicMarket.Data.csproj.CopyComplete
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\ASP.MusicMarket.Data.dll
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\refint\ASP.MusicMarket.Data.dll
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\ASP.MusicMarket.Data.pdb
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\ASP.MusicMarket.Data.genruntimeconfig.cache
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Data\obj\Debug\net7.0\ref\ASP.MusicMarket.Data.dll

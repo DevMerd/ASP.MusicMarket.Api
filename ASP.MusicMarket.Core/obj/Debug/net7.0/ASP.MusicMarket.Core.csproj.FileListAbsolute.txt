@@ -1,0 +1,12 @@
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\bin\Debug\net7.0\ASP.MusicMarket.Core.deps.json
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\bin\Debug\net7.0\ASP.MusicMarket.Core.dll
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\bin\Debug\net7.0\ASP.MusicMarket.Core.pdb
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\obj\Debug\net7.0\ASP.MusicMarket.Core.csproj.AssemblyReference.cache
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\obj\Debug\net7.0\ASP.MusicMarket.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\obj\Debug\net7.0\ASP.MusicMarket.Core.AssemblyInfoInputs.cache
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\obj\Debug\net7.0\ASP.MusicMarket.Core.AssemblyInfo.cs
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\obj\Debug\net7.0\ASP.MusicMarket.Core.csproj.CoreCompileInputs.cache
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\obj\Debug\net7.0\ASP.MusicMarket.Core.dll
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\obj\Debug\net7.0\refint\ASP.MusicMarket.Core.dll
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\obj\Debug\net7.0\ASP.MusicMarket.Core.pdb
+D:\AllCode\MVC Proje Kampı\ASP.MusicMarket.Api\ASP.MusicMarket.Core\obj\Debug\net7.0\ref\ASP.MusicMarket.Core.dll
